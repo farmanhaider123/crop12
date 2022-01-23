@@ -4,7 +4,7 @@ Flask
 scikit-learn
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.7.1+cpu 
-torchvision==1.8.1+cpu
+torchvision==0.8.1+cpu
 requests
 Pillow
 gunicorn == 20.0.4
